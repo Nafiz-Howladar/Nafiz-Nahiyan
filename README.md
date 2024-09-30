@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development, Cyber Security
 - 🌱 I’m currently learning Web Development through JS
 - 💞️ I’m looking to collaborate on developing awesome unique websites
-- 📫 How to reach me (email: main.nafizhowlader@gmail.com)
+- 📫 How to reach me (email: heyitsnafiz@duck.com)
 - ⚡ Fun fact: I want to be a Hacker. Ha Ha Ha ... ... ...
 
 <!---
